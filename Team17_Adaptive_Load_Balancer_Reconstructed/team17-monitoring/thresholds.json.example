@@ -1,0 +1,24 @@
+{
+  "reporting_interval_seconds": 2,
+  "missed_reports": {
+    "critical": 3
+  },
+  "default_link_capacity_mbps": 10,
+  "sustained_violation_intervals": 3,
+  "latency_ms": {
+    "warning": 100,
+    "critical": 250
+  },
+  "packet_rate_pps": {
+    "warning": 1000,
+    "critical": 2500
+  },
+  "link_utilisation_percent": {
+    "warning": 70,
+    "critical": 90
+  },
+  "traffic_mismatch_percent": {
+    "warning": 30,
+    "critical": 60
+  }
+}

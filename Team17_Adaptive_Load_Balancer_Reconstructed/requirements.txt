@@ -1,0 +1,2 @@
+# Application files use only the Python standard library.
+# Existing Mininet/POX monitoring environment has its own system dependencies.
